@@ -801,7 +801,7 @@ class BuyCommunity extends React.Component {
             </div>
           </div>
         </div>
-        <form
+        <div
           style={{
             overflow: "hidden",
             display: "flex",
@@ -866,7 +866,7 @@ class BuyCommunity extends React.Component {
               nick@thumbprint.us
             </div>
           </div>
-        </form>
+        </div>
       </div>
     );
   }
